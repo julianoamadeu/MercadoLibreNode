@@ -11,7 +11,7 @@ var config = {
 
 	api_root_url: 'https://api.mercadolibre.com',
 	skd_version: '0.0.13',
-	auth_url: 'https://auth.mercadolibre.com/authorization',
+	auth_url: 'https://auth.mercadolivre.com.br/authorization',
 	oauth_url: 'https://api.mercadolibre.com/oauth/token'
 
 };
